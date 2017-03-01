@@ -13,8 +13,7 @@ Tyler Walker
 Using a .js file, I created a photo slideshow using multiple functions, such as preview, create, populate, etc.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tylerdwalker.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. The left and right arrow functions create a look that makes the slideshow look as if it is shifting pictures left and right.
